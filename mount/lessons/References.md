@@ -2,6 +2,10 @@
 
 ## Python libraries
 - [goes2go](https://github.com/blaylockbk/goes2go) - Downloading and displaying GOES satellite imagery
+- [Iris](https://scitools-iris.readthedocs.io/en/latest/) - Interacting with gridded weather data
+- [MetPy](https://unidata.github.io/MetPy/latest/index.html) - Interacting with common feature data (METAR, RAOB, etc)
+- [Numpy Docs](https://numpy.org/doc/stable/) - Helpful tool for handling grids of data
+- [Numby library](https://github.com/numpy/numpy)
 
 ## Data sources
 ### Radar GRIB data
