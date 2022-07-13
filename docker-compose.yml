@@ -1,8 +1,21 @@
 services:
   jupyter:
-    build: .
+    build: 
+      context: .
+      target: base
     ports:
       - "8888:8888"
     volumes:
       - ./mount:/opt/app/data
     entrypoint: sh -c 'jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --notebook-dir=/opt/app/data --allow-root'
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: api
+    ports: 
+      - "8000:8000"
+    volumes:
+      - ./fastapi/app:/app
+    entrypoint: ["uvicorn", "main:app", "--workers", "1", "--host", "0.0.0.0", "--port", "8000", "--reload"]
