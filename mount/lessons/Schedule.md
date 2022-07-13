@@ -27,14 +27,19 @@
 
 ## Speaker Evaluation
 - Please log in to your Nebraska Code profile to leave us a review!
+- Click on Schedule -> List
+- Find the class that's highlighted
+- Click on "Fill out evaluation for this session"
+- Submit
+
 ![Speaker eval](img/eval.png)
 
 ## Stay in touch!
 
 **Shyft Solutions** 
-- Twitter: @shyftsolutions
-- LinkedIn: https://linkedin.com/company/shyftsolutions
+- Twitter: [@shyftsolutions](https://twitter.com/shyftsolutions)
+- LinkedIn: [https://linkedin.com/company/shyftsolutions](https://linkedin.com/company/shyftsolutions)
 - Email: training@shyftsolutions.io
 
 **Jason**
-- Twitter: @\_\_jwashburn__
+- Twitter: [@\_\_jwashburn__](https://twitter.com/__jwashburn__)
