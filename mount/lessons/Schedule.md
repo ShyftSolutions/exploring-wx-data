@@ -37,4 +37,4 @@
 - Email: training@shyftsolutions.io
 
 **Jason**
-- Twitter: @__jwashburn__
+- Twitter: @\_\_jwashburn__
