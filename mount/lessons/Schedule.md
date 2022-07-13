@@ -1,8 +1,9 @@
 # Exploring Weather Data Workshop Schedule
 
+![Speakers](img/speakers.jpeg)
+
 ## Session 1 (8:30 - 10 am)
 - Intros - Cathy, Eric, Jason
-![Speakers](img/speakers.jpeg)
 - Initial setup verification
 - Weather data overview
 
