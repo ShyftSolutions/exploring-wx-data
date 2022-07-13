@@ -1,5 +1,5 @@
 boto3 >= 1.24
-goes2go >= 0.04
+goes2go >= 0.0.4
 MetPy >= 1.3.1
 nc-time-axis >= 1.4.1
 toml >= 0.10.2
