@@ -23,5 +23,10 @@
 - [Radiosonde information](https://www.weather.gov/jetstream/radiosonde)
 - [Skew-T plot description](https://www.weather.gov/jetstream/skewt)
 - [Convective parameters](https://www.weather.gov/source/zhu/ZHU_Training_Page/convective_parameters/skewt/skewtinfo.html)
+- [Satellite remote sensing](https://appliedsciences.nasa.gov/sites/default/files/D1P3_Fundamentals.pdf)
+- [In Situ and Remote Sensing overview](https://www.e-education.psu.edu/meteo3/node/2224)
+- [Weather modeling](http://www.atmo.arizona.edu/students/courselinks/fall09/atmo336/lectures/sec6/modeling.html)
+- [GRBI2 Tables](https://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_doc/)
+- [GIS Info](https://michaelminn.net/tutorials/gis-data/index.html)
 
 ## Tutorials
