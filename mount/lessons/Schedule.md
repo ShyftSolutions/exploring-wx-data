@@ -28,3 +28,13 @@
 ## Speaker Evaluation
 - Please log in to your Nebraska Code profile to leave us a review!
 ![Speaker eval](img/eval.png)
+
+## Stay in touch!
+
+**Shyft Solutions** 
+- Twitter: @shyftsolutions
+- LinkedIn: https://linkedin.com/company/shyftsolutions
+- Email: training@shyftsolutions.io
+
+**Jason**
+- Twitter: @__jwashburn__
