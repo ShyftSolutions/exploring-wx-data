@@ -11,11 +11,15 @@
 - [AWS Open Data](https://registry.opendata.aws/noaa-goes/)
     - Use AWS CLI or subscribe to SNS: [https://registry.opendata.aws/noaa-goes/](https://registry.opendata.aws/noaa-goes/)
     - Direct route to files: [https://noaa-goes16.s3.amazonaws.com/index.html#ABI-L1b-RadC/2022/193/00/](https://noaa-goes16.s3.amazonaws.com/index.html#ABI-L1b-RadC/2022/193/00/)
+- [NCEP GRIB files](https://www.nco.ncep.noaa.gov/pmb/products/)
 
 ### METAR and Forecast data 
 - [NOAA Weather API](https://api.weather.gov/openapi.json)
     - Example METAR request: [https://api.weather.gov/stations/KOFF/observations/latest](https://api.weather.gov/stations/KOFF/observations/latest)
     - Example Active Alerts request: [https://api.weather.gov/alerts/active?point=38.9807,-76.9373](https://api.weather.gov/alerts/active?point=38.9807,-76.9373)
+    
+### Climate data
+- [NCEI API description](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted)
 
 
 ## Weather data information
